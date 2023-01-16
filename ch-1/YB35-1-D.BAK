@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+main()  {
+	   clesce();
+	   printf("\t\t*  * \n");
+	   printf("\t\t*    * \n");
+	   printf("\t\t*     * \n");
+	   printf("\t\t*      * \n");
+	   printf("\t\t*     * \n");
+	   printf("\t\t*    * \n");
+	   printf("\t\t*  * \n");
+	   getch();
+	}
